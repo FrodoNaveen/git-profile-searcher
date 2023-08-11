@@ -63,7 +63,7 @@ function App() {
                 <p>{ele.login}</p>
                 {/* // eslint-disable-next-line jsx-a11y/anchor-has-content */}
                 <p className="link" onClick={() => openTab(ele.html_url)}>
-                  <u style={{ color: "blue" }}>{ele.html_url}</u>
+                  URL: <u style={{ color: "blue" }}>{ele.html_url}</u>
                 </p>
               </div>
             </div>
