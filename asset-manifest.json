@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git-profile-searcher/static/css/main.a0ff2161.css",
-    "main.js": "/git-profile-searcher/static/js/main.41ee9efd.js",
-    "static/js/787.a9ad5606.chunk.js": "/git-profile-searcher/static/js/787.a9ad5606.chunk.js",
-    "index.html": "/git-profile-searcher/index.html",
-    "main.a0ff2161.css.map": "/git-profile-searcher/static/css/main.a0ff2161.css.map",
-    "main.41ee9efd.js.map": "/git-profile-searcher/static/js/main.41ee9efd.js.map",
-    "787.a9ad5606.chunk.js.map": "/git-profile-searcher/static/js/787.a9ad5606.chunk.js.map"
+    "main.css": "/static/css/main.a0ff2161.css",
+    "main.js": "/static/js/main.98139465.js",
+    "static/js/787.a9ad5606.chunk.js": "/static/js/787.a9ad5606.chunk.js",
+    "index.html": "/index.html",
+    "main.a0ff2161.css.map": "/static/css/main.a0ff2161.css.map",
+    "main.98139465.js.map": "/static/js/main.98139465.js.map",
+    "787.a9ad5606.chunk.js.map": "/static/js/787.a9ad5606.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0ff2161.css",
-    "static/js/main.41ee9efd.js"
+    "static/js/main.98139465.js"
   ]
 }
